@@ -1,0 +1,21 @@
+.panda-slide{
+    background-color: #fceae8;
+    border-radius: 1em;
+}
+.catagori{
+    border-radius: 1em;
+}
+.catagori img{
+    width: 100px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    border: 0;
+}
+.subcribes{
+    height: 300px;
+    background-color: #fceae8;
+    border-radius: 1em;
+}
